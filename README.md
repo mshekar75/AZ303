@@ -1,2 +1,2 @@
 # AZ303
-Azure Training
+Azure Architect Training
